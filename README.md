@@ -1,4 +1,4 @@
-#!Hola¡ Soy Luciano Albornoz 
+# !Hola¡ Soy Luciano Albornoz 
 
 Soy estudiante de Ingenieria de Sistemas en la UMSS 
 Mi pasatiempo favorito es jugar futbol y videojuegos,
