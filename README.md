@@ -11,4 +11,5 @@ por las diferentes adversidades que llegaron a tener.
 
 ![Inspiracion animada](https://aulaicosec.mx/pluginfile.php/57/course/overviewfiles/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif)
 
+✨Si dejas que el miedo te detenga , nunca podras avanzar✨
 
